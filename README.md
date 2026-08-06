@@ -31,6 +31,7 @@ Each file contains:
 | Date | Problem | Status |
 |------|---------|--------|
 | 07 Aug 2026 | Friends Pairing Problem | ✅ Solved |
+TARGET TO SOLVE DAILY POTD..
 
 
 
@@ -44,4 +45,4 @@ Each file contains:
 
 ---
 
-⭐ If you find this repository helpful, don't forget to **Star** it!
+⭐ If you find this repository helpful, don't forget to  share ..
