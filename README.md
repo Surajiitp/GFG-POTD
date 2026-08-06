@@ -5,7 +5,7 @@ Welcome to my **GeeksforGeeks Problem of the Day (POTD)** repository.
 This repository contains my daily solutions to the **GeeksforGeeks Problem of the Day**, implemented in **C++** with clean code, optimized approaches, explanations, and complexity analysis.
 
 ## Repository Structure
-```GFG potd starting from 7th aug 2026....
+```GFG POTD  starting from 7th AUG 2026....
 
 Each file contains:
 - 📝 Problem Statement
